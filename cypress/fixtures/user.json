@@ -1,0 +1,13 @@
+{
+    "id": [
+        100,
+        101
+    ],
+    "username": "Vlad",
+    "firstName": "Vladislav",
+    "lastName": "Ezhkov",
+    "email": "vlad.ezhkov.96@mail.ru",
+    "password": "pass",
+    "phone": "89183477293",
+    "userStatus": 3
+}

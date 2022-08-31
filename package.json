@@ -1,0 +1,14 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "cy:dash": "cypress run --record --key d0365ee5-e48b-4dea-bdd8-c439b1ad04d8"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
